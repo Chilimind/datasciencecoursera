@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course work for the Data Scientist's Toolbox 
+Course work for The Data Scientist's Toolbox 
